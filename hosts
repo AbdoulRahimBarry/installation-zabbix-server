@@ -1,0 +1,2 @@
+[server]
+3.82.14.204 ansible_user=centos ansible_ssh_common_args='-o StrictHostKeyChecking=no'
